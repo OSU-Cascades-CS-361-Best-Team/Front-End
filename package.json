@@ -1,0 +1,23 @@
+{
+  "name": "bend-bike-shop-application",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OSU-Cascades-CS-361-Best-Team/Front-End.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OSU-Cascades-CS-361-Best-Team/Front-End/issues"
+  },
+  "homepage": "https://github.com/OSU-Cascades-CS-361-Best-Team/Front-End#readme",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
